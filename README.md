@@ -1,53 +1,73 @@
-# 👋 Hi, I'm Muhammad Sohaib Ahmed
+<div align="center">
 
-**AI Engineer • FastAPI • Multi-Agent Systems • RAG • LLM Applications**
+![RiskVision hero](assets/riskvision-hero.png)
 
-I build production-ready LLM applications, retrieval-augmented systems, and scalable back-end services. I focus on real-world AI solutions that combine solid engineering, reliable APIs, and practical UX.
+# 🚀 Muhammad Sohaib Ahmed — AI Engineer
+
+**Production LLMs • Multi‑Agent Systems • Retrieval‑Augmented Generation • FastAPI**
+
+I build enterprise-grade AI products and demos that solve real business problems — fraud detection, financial advisory, and scalable backend systems. Below are my flagship projects with live demos and quick wins you can explore in seconds.
 
 ---
 
-## 🚀 What I Do
+## 💥 Headline
 
-- Build multi-agent AI systems and LLM-powered assistants
-- Design Retrieval-Augmented Generation (RAG) pipelines and vector search
-- Develop production FastAPI backends and MLOps-ready deployments
-- Build full-stack demos with Next.js and modern frontends
+From prototype to production: I design RAG pipelines, orchestrate multi-agent workflows, and ship FastAPI backends with reproducible deployments — delivered with clean UX and measurable business outcomes.
 
+---
 
-## 🌟 Featured projects
+## 🌟 Featured demos (click to launch)
 
-- **RiskVision AI** — Enterprise fraud-detection platform for financial institutions. Tech: TypeScript, Next.js, RAG. Live demo: https://riskvision-ai-ashen.vercel.app • Repo: https://github.com/msa1979msa/riskvision-ai
+### Risk‑AI‑Cybercrime — RiskVision AI
 
-- **Orange ERP** — Accounting, finance, and tax compliance platform for regional operations. Tech: TypeScript, Next.js. Live demo: https://orange-erp.vercel.app • Repo: https://github.com/msa1979msa/orange-erp
+![RiskVision thumbnail](assets/riskvision-hero.png)
 
-- **Personal portfolio** — My portfolio site and contact form built with Next.js and EmailJS. Repo: https://github.com/msa1979msa/sohaib-portfolio
+- Demo: https://riskvision-ai-ashen.vercel.app
+- Repo: https://github.com/msa1979msa/riskvision-ai
+- Highlight: Real‑time RAG + multi‑agent scoring.
+- Demo metrics (from dashboard): **34,215** transactions • **187** threats detected • **$2.34M** blocked • **12** analysts
 
-> Tip: Pin these repositories on your GitHub profile to make them visible at a glance.
+[Launch Demo](https://riskvision-ai-ashen.vercel.app) • [View Source](https://github.com/msa1979msa/riskvision-ai)
 
+---
 
-## 🛠️ Skills & Tools
+### Ameen‑AI — AMEEN AI (Islamic Banking Advisor)
 
-Python • FastAPI • TypeScript • Next.js • Vector DBs (FAISS) • RAG patterns • LLMs • Docker • Cloud deployments • CI/CD
+![AMEEN AI thumbnail](assets/ameen-ai.png)
 
+- Demo: https://ameen-ai.vercel.app
+- Repo: https://github.com/msa1979msa/Ameen-AI
+- Highlight: Conversational advisor for Shariah‑compliant banking products with explainable guidance.
 
-## 🌱 Currently learning
+[Launch Demo](https://ameen-ai.vercel.app) • [View Source](https://github.com/msa1979msa/Ameen-AI)
 
-- Advanced multi-agent architectures and orchestration
-- Enterprise AI deployments and MLOps patterns
-- Scalable observability for AI systems
+---
 
+### ERP Orange AI — Orange ERP
 
-## 🤝 Open to collaborate
+![Orange ERP thumbnail](assets/orange-erp.png)
 
-Open-source AI projects, enterprise automation, and RAG/LLM integrations. I’m available for collaborations and freelance/contract work — DM on LinkedIn.
+- Demo: https://orange-erp.vercel.app
+- Repo: https://github.com/msa1979msa/orange-erp
+- Highlight: Double‑entry ledger across multiple jurisdictions with secure audit trails.
 
+[Launch Demo](https://orange-erp.vercel.app) • [View Source](https://github.com/msa1979msa/orange-erp)
 
-## 📫 How to reach me
+---
 
+## 🛠️ Core skills & stack
+
+Python • FastAPI • TypeScript • Next.js • Docker • FAISS • Vector DBs • RAG • LLMs • GitHub Actions • Vercel
+
+---
+
+## 📫 Contact
+
+- Email: <mailto:apple1979msa@gmail.com>
 - LinkedIn: https://www.linkedin.com/in/sohaib-ahmed-52a33422a/
-- GitHub: https://github.com/msa1979msa (open an issue on any repo or link to a demo)
-
+- Portfolio: https://github.com/msa1979msa/sohaib-portfolio
 
 ---
 
-⭐ Always exploring new technologies and building AI that creates real business value.
+**Next steps**: I will add animated GIF thumbnails (3–5s) and polished hero overlay styles in a follow-up commit. If you want me to commit screenshots as real binary images now, reply "upload images" and I will add the PNG/GIF files directly to /assets/ in this branch.
+</div>
