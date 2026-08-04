@@ -1,7 +1,5 @@
 <div align="center">
 
-![RiskVision hero](assets/riskvision-hero.png)
-
 # 🚀 Muhammad Sohaib Ahmed — AI Engineer
 
 **Production LLMs • Multi‑Agent Systems • Retrieval‑Augmented Generation • FastAPI**
