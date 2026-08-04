@@ -1,12 +1,12 @@
 <div align="center">
 
-![RiskVision hero](assets/riskvision-hero.png)
+![RiskVision hero](assets/Screenshot%202026-07-29%20105841.png)
 
 # 🚀 Muhammad Sohaib Ahmed — AI Engineer
 
 **Production LLMs • Multi‑Agent Systems • Retrieval‑Augmented Generation • FastAPI**
 
-I build enterprise-grade AI products and demos that solve real business problems — fraud detection, financial advisory, and scalable backend systems. Below are my flagship projects with live demos and quick wins you can explore in seconds.
+I build enterprise-grade AI products and demos that solve real business problems — fraud detection, financial advisory, and scalable backend systems. Below are my flagship projects with live demo[...]
 
 ---
 
@@ -20,7 +20,7 @@ From prototype to production: I design RAG pipelines, orchestrate multi-agent wo
 
 ### Risk‑AI‑Cybercrime — RiskVision AI
 
-![RiskVision thumbnail](assets/riskvision-hero.png)
+![RiskVision thumbnail](assets/Screenshot%202026-07-29%20105841.png)
 
 - Demo: https://riskvision-ai-ashen.vercel.app
 - Repo: https://github.com/msa1979msa/riskvision-ai
@@ -33,7 +33,7 @@ From prototype to production: I design RAG pipelines, orchestrate multi-agent wo
 
 ### Ameen‑AI — AMEEN AI (Islamic Banking Advisor)
 
-![AMEEN AI thumbnail](assets/ameen-ai.png)
+![AMEEN AI thumbnail](assets/Screenshot%202026-07-29%20115614.png)
 
 - Demo: https://ameen-ai.vercel.app
 - Repo: https://github.com/msa1979msa/Ameen-AI
@@ -45,7 +45,7 @@ From prototype to production: I design RAG pipelines, orchestrate multi-agent wo
 
 ### ERP Orange AI — Orange ERP
 
-![Orange ERP thumbnail](assets/orange-erp.png)
+![Orange ERP thumbnail](assets/Screenshot%202026-07-30%20125255.png)
 
 - Demo: https://orange-erp.vercel.app
 - Repo: https://github.com/msa1979msa/orange-erp
