@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Muhammad Sohaib Ahmed — AI Engineer
+# Muhammad Sohaib Ahmed — AI Engineer
 
 **Production LLMs • Multi‑Agent Systems • Retrieval‑Augmented Generation • FastAPI**
 
