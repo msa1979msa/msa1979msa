@@ -18,8 +18,6 @@ From prototype to production: I design RAG pipelines, orchestrate multi-agent wo
 
 ### Risk‑AI‑Cybercrime — RiskVision AI
 
-![RiskVision thumbnail](assets/riskvision-hero.png)
-
 - Demo: https://riskvision-ai-ashen.vercel.app
 - Repo: https://github.com/msa1979msa/riskvision-ai
 - Highlight: Real‑time RAG + multi‑agent scoring.
@@ -31,8 +29,6 @@ From prototype to production: I design RAG pipelines, orchestrate multi-agent wo
 
 ### Ameen‑AI — AMEEN AI (Islamic Banking Advisor)
 
-![AMEEN AI thumbnail](assets/ameen-ai.png)
-
 - Demo: https://ameen-ai.vercel.app
 - Repo: https://github.com/msa1979msa/Ameen-AI
 - Highlight: Conversational advisor for Shariah‑compliant banking products with explainable guidance.
@@ -42,8 +38,6 @@ From prototype to production: I design RAG pipelines, orchestrate multi-agent wo
 ---
 
 ### ERP Orange AI — Orange ERP
-
-![Orange ERP thumbnail](assets/orange-erp.png)
 
 - Demo: https://orange-erp.vercel.app
 - Repo: https://github.com/msa1979msa/orange-erp
