@@ -1,0 +1,4 @@
+<!-- assets placeholder, replace with binary image -->
+This file is a placeholder for the RiskVision hero image (Image 1 supplied by user). Please replace with the PNG/GIF binary named riskvision-hero.png.
+
+Original image provided by user: Risk‑AI‑Cybercrime (Image 1)
